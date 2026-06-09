@@ -30,7 +30,7 @@ To build the `.deb` package from source, follow these steps:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/mirajlensman/utoop-music.git
+git clone https://github.com/lensmanreboot/utoop-music.git
 cd utoop-music
 
 # 2. Make the build script executable and run it
@@ -43,6 +43,3 @@ sudo dpkg -i utoop-music_*.deb
 
 ## License
 Distributed under the GNU GPLv3 License. See `LICENSE` for more information.
-
-## Contact
-Miraj Lensman - mirajlensman@gmail.com
